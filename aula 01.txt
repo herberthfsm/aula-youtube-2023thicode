@@ -1,1 +1,3 @@
-Novo arquivo versão 01
+Novo arquivo versao 01
+
+Arquivo editado pelo Github 202307
